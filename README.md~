@@ -1,1 +1,9 @@
 #About This is the example php rest API
+
+This Example uses the PHP API and MYSQL database as a backend you will find the complete script for the php API here https://github.com/AbhaysinghBhosale/php-rest-api
+
+Extract this in your http://localhost folder and update the file urls according to that.
+
+In my case my project folder was http://localhost/react_crud/extracted files here
+
+PHP API should be on http://localhost/api/extracted files here
